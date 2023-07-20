@@ -1,0 +1,22 @@
+@relation dataset_thesis_
+
+@attribute index numeric
+@attribute method {GET,POST,PUT}
+@attribute url {}
+@attribute protocol {HTTP/1.1}
+@attribute userAgent {'Mozilla/5.0 (compatible; Konqueror/3.5; Linux) KHTML/3.5.8 (like Gecko)'}
+@attribute pragma {no-cache}
+@attribute cacheControl {no-cache}
+@attribute accept {'text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5'}
+@attribute acceptEncoding {'x-gzip, x-deflate, gzip, deflate'}
+@attribute acceptCharset {'utf-8, utf-8;q=0.5, *;q=0.5'}
+@attribute acceptLanguage {en}
+@attribute host {localhost:8080,localhost:9090}
+@attribute connection {close}
+@attribute contentLength numeric
+@attribute contentType {null,application/x-www-form-urlencoded}
+@attribute cookie {xxx}
+@attribute payload {xxx}
+@attribute label {norm,anom}
+
+@data
