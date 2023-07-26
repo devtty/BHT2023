@@ -1,0 +1,2789 @@
+GET http://localhost:8080/cargo-tracker HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: none
+Sec-Fetch-User: ?1
+
+GET http://localhost:8080/cargo-tracker/ HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: none
+Sec-Fetch-User: ?1
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/theme.css.xhtml?ln=primefaces-omega HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: style
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/css/title.css.xhtml;jsessionid=21e30f38326912d79288515684dc HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: style
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/fa/font-awesome.css.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: style
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+GET http://localhost:8080/cargo-tracker/admin/dashboard.xhtml HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/theme.css.xhtml?ln=primefaces-omega HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/dashboard.xhtml
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: style
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/components.css.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/dashboard.xhtml
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: style
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/css/app.css.xhtml HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/dashboard.xhtml
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: style
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/core.js.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/dashboard.xhtml
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/components.js.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/dashboard.xhtml
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/jquery/jquery.js.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/dashboard.xhtml
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/fa/font-awesome.css.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/dashboard.xhtml
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: style
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/touch/touchswipe.js.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/dashboard.xhtml
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/jquery/jquery-plugins.js.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/dashboard.xhtml
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/fonts/lato-regular-webfont.woff.xhtml?ln=primefaces-omega HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: application/font-woff2;q=1.0,application/font-woff;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/javax.faces.resource/theme.css.xhtml?ln=primefaces-omega
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: font
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+
+GET http://localhost:8080/cargo-tracker/admin/show.xhtml?trackingId=ABC123&jfwid=21e30f38326912d79288515684dc%3A1 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/dashboard.xhtml
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/jquery/jquery-plugins.js.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/show.xhtml?trackingId=ABC123&jfwid=21e30f38326912d79288515684dc%3A1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/fa/font-awesome.css.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/show.xhtml?trackingId=ABC123&jfwid=21e30f38326912d79288515684dc%3A1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: style
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/core.js.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/show.xhtml?trackingId=ABC123&jfwid=21e30f38326912d79288515684dc%3A1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/css/app.css.xhtml HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/show.xhtml?trackingId=ABC123&jfwid=21e30f38326912d79288515684dc%3A1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: style
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/touch/touchswipe.js.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/show.xhtml?trackingId=ABC123&jfwid=21e30f38326912d79288515684dc%3A1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/components.css.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/show.xhtml?trackingId=ABC123&jfwid=21e30f38326912d79288515684dc%3A1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: style
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/jquery/jquery.js.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/show.xhtml?trackingId=ABC123&jfwid=21e30f38326912d79288515684dc%3A1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/components.js.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/show.xhtml?trackingId=ABC123&jfwid=21e30f38326912d79288515684dc%3A1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/theme.css.xhtml?ln=primefaces-omega HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/show.xhtml?trackingId=ABC123&jfwid=21e30f38326912d79288515684dc%3A1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: style
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+GET http://localhost:8080/cargo-tracker/admin/dashboard.xhtml?jfwid=21e30f38326912d79288515684dc:1 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/show.xhtml?trackingId=ABC123&jfwid=21e30f38326912d79288515684dc%3A1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/theme.css.xhtml?ln=primefaces-omega HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/dashboard.xhtml?jfwid=21e30f38326912d79288515684dc:1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: style
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/fa/font-awesome.css.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/dashboard.xhtml?jfwid=21e30f38326912d79288515684dc:1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: style
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/jquery/jquery.js.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/dashboard.xhtml?jfwid=21e30f38326912d79288515684dc:1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/core.js.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/dashboard.xhtml?jfwid=21e30f38326912d79288515684dc:1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/jquery/jquery-plugins.js.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/dashboard.xhtml?jfwid=21e30f38326912d79288515684dc:1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/touch/touchswipe.js.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/dashboard.xhtml?jfwid=21e30f38326912d79288515684dc:1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/components.js.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/dashboard.xhtml?jfwid=21e30f38326912d79288515684dc:1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/css/app.css.xhtml HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/dashboard.xhtml?jfwid=21e30f38326912d79288515684dc:1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: style
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/components.css.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/dashboard.xhtml?jfwid=21e30f38326912d79288515684dc:1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: style
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/images/CTlogobadge128.png.xhtml HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/dashboard.xhtml?jfwid=21e30f38326912d79288515684dc:1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+If-None-Match: W/"29266-1690373151361"
+
+POST http://localhost:8080/cargo-tracker/admin/dashboard.xhtml?jfwid=21e30f38326912d79288515684dc:1 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: application/xml, text/xml, */*; q=0.01
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/dashboard.xhtml?jfwid=21e30f38326912d79288515684dc:1
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Faces-Request: partial/ajax
+X-Requested-With: XMLHttpRequest
+Content-Length: 277
+Origin: https://localhost:8080
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+
+javax.faces.partial.ajax=true&javax.faces.source=j_idt10%3Aj_idt14&javax.faces.partial.execute=%40all&j_idt10%3Aj_idt14=j_idt10%3Aj_idt14&j_idt10=j_idt10&javax.faces.ViewState=-7432928316490067831%3A-3757638774753980428&javax.faces.ClientWindow=21e30f38326912d79288515684dc%3A1
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/jquery/jquery.js.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/javascript, application/javascript, application/ecmascript, application/x-ecmascript, */*; q=0.01
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/dashboard.xhtml?jfwid=21e30f38326912d79288515684dc:1
+X-Requested-With: XMLHttpRequest
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/jquery/jquery-plugins.js.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/javascript, application/javascript, application/ecmascript, application/x-ecmascript, */*; q=0.01
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/dashboard.xhtml?jfwid=21e30f38326912d79288515684dc:1
+X-Requested-With: XMLHttpRequest
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/core.js.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/javascript, application/javascript, application/ecmascript, application/x-ecmascript, */*; q=0.01
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/dashboard.xhtml?jfwid=21e30f38326912d79288515684dc:1
+X-Requested-With: XMLHttpRequest
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/components.js.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/javascript, application/javascript, application/ecmascript, application/x-ecmascript, */*; q=0.01
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/dashboard.xhtml?jfwid=21e30f38326912d79288515684dc:1
+X-Requested-With: XMLHttpRequest
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+
+POST http://localhost:8080/cargo-tracker/booking/booking.xhtml?jfwid=21e30f38326912d79288515684dc:1 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: application/xml, text/xml, */*; q=0.01
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/dashboard.xhtml?jfwid=21e30f38326912d79288515684dc:1
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Faces-Request: partial/ajax
+X-Requested-With: XMLHttpRequest
+Content-Length: 330
+Origin: https://localhost:8080
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+
+javax.faces.partial.ajax=true&javax.faces.source=j_idt20%3Aj_idt27&javax.faces.partial.execute=%40all&j_idt20%3Aj_idt27=j_idt20%3Aj_idt27&j_idt20=j_idt20&j_idt20%3Aorigin_focus=&j_idt20%3Aorigin_input=CNHGH&javax.faces.ViewState=-7432928316490067831%3A-3757638774753980428&javax.faces.ClientWindow=21e30f38326912d79288515684dc%3A1
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/jquery/jquery.js.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/javascript, application/javascript, application/ecmascript, application/x-ecmascript, */*; q=0.01
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/dashboard.xhtml?jfwid=21e30f38326912d79288515684dc:1
+X-Requested-With: XMLHttpRequest
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/jquery/jquery-plugins.js.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/javascript, application/javascript, application/ecmascript, application/x-ecmascript, */*; q=0.01
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/dashboard.xhtml?jfwid=21e30f38326912d79288515684dc:1
+X-Requested-With: XMLHttpRequest
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/core.js.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/javascript, application/javascript, application/ecmascript, application/x-ecmascript, */*; q=0.01
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/dashboard.xhtml?jfwid=21e30f38326912d79288515684dc:1
+X-Requested-With: XMLHttpRequest
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/components.js.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/javascript, application/javascript, application/ecmascript, application/x-ecmascript, */*; q=0.01
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/dashboard.xhtml?jfwid=21e30f38326912d79288515684dc:1
+X-Requested-With: XMLHttpRequest
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+
+POST http://localhost:8080/cargo-tracker/booking/booking-destination.xhtml?jfwid=21e30f38326912d79288515684dc:1 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: application/xml, text/xml, */*; q=0.01
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/dashboard.xhtml?jfwid=21e30f38326912d79288515684dc:1
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Faces-Request: partial/ajax
+X-Requested-With: XMLHttpRequest
+Content-Length: 340
+Origin: https://localhost:8080
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+
+javax.faces.partial.ajax=true&javax.faces.source=j_idt20%3Aj_idt28&javax.faces.partial.execute=%40all&j_idt20%3Aj_idt28=j_idt20%3Aj_idt28&j_idt20=j_idt20&j_idt20%3Adestination_focus=&j_idt20%3Adestination_input=AUMEL&javax.faces.ViewState=-7432928316490067831%3A-3757638774753980428&javax.faces.ClientWindow=21e30f38326912d79288515684dc%3A1
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/jquery/jquery.js.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/javascript, application/javascript, application/ecmascript, application/x-ecmascript, */*; q=0.01
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/dashboard.xhtml?jfwid=21e30f38326912d79288515684dc:1
+X-Requested-With: XMLHttpRequest
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/jquery/jquery-plugins.js.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/javascript, application/javascript, application/ecmascript, application/x-ecmascript, */*; q=0.01
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/dashboard.xhtml?jfwid=21e30f38326912d79288515684dc:1
+X-Requested-With: XMLHttpRequest
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/core.js.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/javascript, application/javascript, application/ecmascript, application/x-ecmascript, */*; q=0.01
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/dashboard.xhtml?jfwid=21e30f38326912d79288515684dc:1
+X-Requested-With: XMLHttpRequest
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/components.js.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/javascript, application/javascript, application/ecmascript, application/x-ecmascript, */*; q=0.01
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/dashboard.xhtml?jfwid=21e30f38326912d79288515684dc:1
+X-Requested-With: XMLHttpRequest
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+
+POST http://localhost:8080/cargo-tracker/booking/booking-date.xhtml?jfwid=21e30f38326912d79288515684dc:1 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: application/xml, text/xml, */*; q=0.01
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/dashboard.xhtml?jfwid=21e30f38326912d79288515684dc:1
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Faces-Request: partial/ajax
+X-Requested-With: XMLHttpRequest
+Content-Length: 370
+Origin: https://localhost:8080
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+
+javax.faces.partial.ajax=true&javax.faces.source=dateForm%3Adeadline&javax.faces.partial.execute=dateForm%3Adeadline&javax.faces.behavior.event=dateSelect&javax.faces.partial.event=dateSelect&dateForm=dateForm&dateForm%3Adeadline_input=2023-07-27&javax.faces.ViewState=-7432928316490067831%3A-3757638774753980428&javax.faces.ClientWindow=21e30f38326912d79288515684dc%3A1
+
+POST http://localhost:8080/cargo-tracker/booking/booking-date.xhtml?jfwid=21e30f38326912d79288515684dc:1 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: application/xml, text/xml, */*; q=0.01
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/dashboard.xhtml?jfwid=21e30f38326912d79288515684dc:1
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Faces-Request: partial/ajax
+X-Requested-With: XMLHttpRequest
+Content-Length: 319
+Origin: https://localhost:8080
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+
+javax.faces.partial.ajax=true&javax.faces.source=dateForm%3AbookBtn&javax.faces.partial.execute=%40all&dateForm%3AbookBtn=dateForm%3AbookBtn&dateForm=dateForm&dateForm%3Adeadline_input=2023-07-27&javax.faces.ViewState=-7432928316490067831%3A-3757638774753980428&javax.faces.ClientWindow=21e30f38326912d79288515684dc%3A1
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/jquery/jquery.js.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/javascript, application/javascript, application/ecmascript, application/x-ecmascript, */*; q=0.01
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/dashboard.xhtml?jfwid=21e30f38326912d79288515684dc:1
+X-Requested-With: XMLHttpRequest
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/jquery/jquery-plugins.js.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/javascript, application/javascript, application/ecmascript, application/x-ecmascript, */*; q=0.01
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/dashboard.xhtml?jfwid=21e30f38326912d79288515684dc:1
+X-Requested-With: XMLHttpRequest
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/core.js.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/javascript, application/javascript, application/ecmascript, application/x-ecmascript, */*; q=0.01
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/dashboard.xhtml?jfwid=21e30f38326912d79288515684dc:1
+X-Requested-With: XMLHttpRequest
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/components.js.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/javascript, application/javascript, application/ecmascript, application/x-ecmascript, */*; q=0.01
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/dashboard.xhtml?jfwid=21e30f38326912d79288515684dc:1
+X-Requested-With: XMLHttpRequest
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/touch/touchswipe.js.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/javascript, application/javascript, application/ecmascript, application/x-ecmascript, */*; q=0.01
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/dashboard.xhtml?jfwid=21e30f38326912d79288515684dc:1
+X-Requested-With: XMLHttpRequest
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+
+POST http://localhost:8080/cargo-tracker/admin/dashboard.xhtml?jfwid=21e30f38326912d79288515684dc:1 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: application/xml, text/xml, */*; q=0.01
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/dashboard.xhtml?jfwid=21e30f38326912d79288515684dc:1
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Faces-Request: partial/ajax
+X-Requested-With: XMLHttpRequest
+Content-Length: 348
+Origin: https://localhost:8080
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+
+javax.faces.partial.ajax=true&javax.faces.source=mainDash%3AtableNotRouted%3A0%3AtoUpdate&javax.faces.partial.execute=%40all&mainDash%3AtableNotRouted%3A0%3AtoUpdate=mainDash%3AtableNotRouted%3A0%3AtoUpdate&mainDash=mainDash&javax.faces.ViewState=-7432928316490067831%3A-3757638774753980428&javax.faces.ClientWindow=21e30f38326912d79288515684dc%3A1
+
+GET http://localhost:8080/cargo-tracker/admin/dialogs/change_destination.xhtml?trackingId=DEF789&jfwid=21e30f38326912d79288515684dc:1&pfdlgcid=6cab7044-03c1-42fb-9ea8-26707bd17219 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/dashboard.xhtml?jfwid=21e30f38326912d79288515684dc:1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: iframe
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/theme.css.xhtml?ln=primefaces-omega HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/dialogs/change_destination.xhtml?trackingId=DEF789&jfwid=21e30f38326912d79288515684dc:1&pfdlgcid=6cab7044-03c1-42fb-9ea8-26707bd17219
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: style
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/jquery/jquery.js.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/dialogs/change_destination.xhtml?trackingId=DEF789&jfwid=21e30f38326912d79288515684dc:1&pfdlgcid=6cab7044-03c1-42fb-9ea8-26707bd17219
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/components.css.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/dialogs/change_destination.xhtml?trackingId=DEF789&jfwid=21e30f38326912d79288515684dc:1&pfdlgcid=6cab7044-03c1-42fb-9ea8-26707bd17219
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: style
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/jquery/jquery-plugins.js.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/dialogs/change_destination.xhtml?trackingId=DEF789&jfwid=21e30f38326912d79288515684dc:1&pfdlgcid=6cab7044-03c1-42fb-9ea8-26707bd17219
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/components.js.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/dialogs/change_destination.xhtml?trackingId=DEF789&jfwid=21e30f38326912d79288515684dc:1&pfdlgcid=6cab7044-03c1-42fb-9ea8-26707bd17219
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/core.js.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/dialogs/change_destination.xhtml?trackingId=DEF789&jfwid=21e30f38326912d79288515684dc:1&pfdlgcid=6cab7044-03c1-42fb-9ea8-26707bd17219
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/fa/font-awesome.css.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/dialogs/change_destination.xhtml?trackingId=DEF789&jfwid=21e30f38326912d79288515684dc:1&pfdlgcid=6cab7044-03c1-42fb-9ea8-26707bd17219
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: style
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+POST http://localhost:8080/cargo-tracker/admin/dialogs/change_destination.xhtml?pfdlgcid=6cab7044-03c1-42fb-9ea8-26707bd17219&jfwid=21e30f38326912d79288515684dc:1 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: application/xml, text/xml, */*; q=0.01
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/dialogs/change_destination.xhtml?trackingId=DEF789&jfwid=21e30f38326912d79288515684dc:1&pfdlgcid=6cab7044-03c1-42fb-9ea8-26707bd17219
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Faces-Request: partial/ajax
+X-Requested-With: XMLHttpRequest
+Content-Length: 324
+Origin: https://localhost:8080
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+
+javax.faces.partial.ajax=true&javax.faces.source=j_idt8%3Aj_idt18&javax.faces.partial.execute=%40all&j_idt8%3Aj_idt18=j_idt8%3Aj_idt18&j_idt8=j_idt8&j_idt8%3Aj_idt15_focus=&j_idt8%3Aj_idt15_input=SEGOT&javax.faces.ViewState=-1291221411984563525%3A-349038583178956794&javax.faces.ClientWindow=21e30f38326912d79288515684dc%3A1
+
+POST http://localhost:8080/cargo-tracker/admin/dashboard.xhtml?jfwid=21e30f38326912d79288515684dc:1 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: application/xml, text/xml, */*; q=0.01
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/dashboard.xhtml?jfwid=21e30f38326912d79288515684dc:1
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Faces-Request: partial/ajax
+X-Requested-With: XMLHttpRequest
+Content-Length: 519
+Origin: https://localhost:8080
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+
+javax.faces.partial.ajax=true&javax.faces.source=mainDash%3AtableNotRouted%3A0%3AtoUpdate&javax.faces.partial.execute=mainDash%3AtableNotRouted%3A0%3AtoUpdate&javax.faces.partial.render=mainDash%3AtableNotRouted&javax.faces.behavior.event=dialogReturn&javax.faces.partial.event=dialogReturn&mainDash%3AtableNotRouted%3A0%3AtoUpdate_pfdlgcid=6cab7044-03c1-42fb-9ea8-26707bd17219&mainDash=mainDash&javax.faces.ViewState=-7432928316490067831%3A-3757638774753980428&javax.faces.ClientWindow=21e30f38326912d79288515684dc%3A1
+
+GET http://localhost:8080/cargo-tracker/admin/dialogs/change_destination.xhtml?trackingId=DEF789&jfwid=21e30f38326912d79288515684dc:1&pfdlgcid=6cab7044-03c1-42fb-9ea8-26707bd17219 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/dialogs/change_destination.xhtml?trackingId=DEF789&jfwid=21e30f38326912d79288515684dc:1&pfdlgcid=6cab7044-03c1-42fb-9ea8-26707bd17219
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: iframe
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+
+POST http://localhost:8080/cargo-tracker/admin/dashboard.xhtml?jfwid=21e30f38326912d79288515684dc:1 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: application/xml, text/xml, */*; q=0.01
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/dashboard.xhtml?jfwid=21e30f38326912d79288515684dc:1
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Faces-Request: partial/ajax
+X-Requested-With: XMLHttpRequest
+Content-Length: 393
+Origin: https://localhost:8080
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+
+javax.faces.partial.ajax=true&javax.faces.source=mainDash%3AtableNotRouted%3A0%3AarrivalDeadlineToUpdate&javax.faces.partial.execute=%40all&mainDash%3AtableNotRouted%3A0%3AarrivalDeadlineToUpdate=mainDash%3AtableNotRouted%3A0%3AarrivalDeadlineToUpdate&mainDash=mainDash&javax.faces.ViewState=-7432928316490067831%3A-3757638774753980428&javax.faces.ClientWindow=21e30f38326912d79288515684dc%3A1
+
+GET http://localhost:8080/cargo-tracker/admin/dialogs/change_arrival_deadline.xhtml?trackingId=DEF789&jfwid=21e30f38326912d79288515684dc:1&pfdlgcid=69146365-4b6c-4a62-a818-cec591ab03ed HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/dashboard.xhtml?jfwid=21e30f38326912d79288515684dc:1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: iframe
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/jquery/jquery-plugins.js.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/dialogs/change_arrival_deadline.xhtml?trackingId=DEF789&jfwid=21e30f38326912d79288515684dc:1&pfdlgcid=69146365-4b6c-4a62-a818-cec591ab03ed
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/core.js.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/dialogs/change_arrival_deadline.xhtml?trackingId=DEF789&jfwid=21e30f38326912d79288515684dc:1&pfdlgcid=69146365-4b6c-4a62-a818-cec591ab03ed
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/jquery/jquery.js.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/dialogs/change_arrival_deadline.xhtml?trackingId=DEF789&jfwid=21e30f38326912d79288515684dc:1&pfdlgcid=69146365-4b6c-4a62-a818-cec591ab03ed
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/theme.css.xhtml?ln=primefaces-omega HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/dialogs/change_arrival_deadline.xhtml?trackingId=DEF789&jfwid=21e30f38326912d79288515684dc:1&pfdlgcid=69146365-4b6c-4a62-a818-cec591ab03ed
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: style
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/datepicker/datepicker.js.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/dialogs/change_arrival_deadline.xhtml?trackingId=DEF789&jfwid=21e30f38326912d79288515684dc:1&pfdlgcid=69146365-4b6c-4a62-a818-cec591ab03ed
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/components.css.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/dialogs/change_arrival_deadline.xhtml?trackingId=DEF789&jfwid=21e30f38326912d79288515684dc:1&pfdlgcid=69146365-4b6c-4a62-a818-cec591ab03ed
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: style
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/components.js.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/dialogs/change_arrival_deadline.xhtml?trackingId=DEF789&jfwid=21e30f38326912d79288515684dc:1&pfdlgcid=69146365-4b6c-4a62-a818-cec591ab03ed
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/fa/font-awesome.css.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/dialogs/change_arrival_deadline.xhtml?trackingId=DEF789&jfwid=21e30f38326912d79288515684dc:1&pfdlgcid=69146365-4b6c-4a62-a818-cec591ab03ed
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: style
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+POST http://localhost:8080/cargo-tracker/admin/dialogs/change_arrival_deadline.xhtml?pfdlgcid=69146365-4b6c-4a62-a818-cec591ab03ed&jfwid=21e30f38326912d79288515684dc:1 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: application/xml, text/xml, */*; q=0.01
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/dialogs/change_arrival_deadline.xhtml?trackingId=DEF789&jfwid=21e30f38326912d79288515684dc:1&pfdlgcid=69146365-4b6c-4a62-a818-cec591ab03ed
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Faces-Request: partial/ajax
+X-Requested-With: XMLHttpRequest
+Content-Length: 306
+Origin: https://localhost:8080
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+
+javax.faces.partial.ajax=true&javax.faces.source=j_idt8%3Aj_idt17&javax.faces.partial.execute=%40all&j_idt8%3Aj_idt17=j_idt8%3Aj_idt17&j_idt8=j_idt8&j_idt8%3Aj_idt15_input=9%2F30%2F23&javax.faces.ViewState=-6036783755847689452%3A1607266619773269845&javax.faces.ClientWindow=21e30f38326912d79288515684dc%3A1
+
+POST http://localhost:8080/cargo-tracker/admin/dashboard.xhtml?jfwid=21e30f38326912d79288515684dc:1 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: application/xml, text/xml, */*; q=0.01
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/dashboard.xhtml?jfwid=21e30f38326912d79288515684dc:1
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Faces-Request: partial/ajax
+X-Requested-With: XMLHttpRequest
+Content-Length: 564
+Origin: https://localhost:8080
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+
+javax.faces.partial.ajax=true&javax.faces.source=mainDash%3AtableNotRouted%3A0%3AarrivalDeadlineToUpdate&javax.faces.partial.execute=mainDash%3AtableNotRouted%3A0%3AarrivalDeadlineToUpdate&javax.faces.partial.render=mainDash%3AtableNotRouted&javax.faces.behavior.event=dialogReturn&javax.faces.partial.event=dialogReturn&mainDash%3AtableNotRouted%3A0%3AarrivalDeadlineToUpdate_pfdlgcid=69146365-4b6c-4a62-a818-cec591ab03ed&mainDash=mainDash&javax.faces.ViewState=-7432928316490067831%3A-3757638774753980428&javax.faces.ClientWindow=21e30f38326912d79288515684dc%3A1
+
+GET http://localhost:8080/cargo-tracker/admin/route.xhtml?trackingId=DEF789&jfwid=21e30f38326912d79288515684dc%3A1 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/dashboard.xhtml?jfwid=21e30f38326912d79288515684dc:1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/theme.css.xhtml?ln=primefaces-omega HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/route.xhtml?trackingId=DEF789&jfwid=21e30f38326912d79288515684dc%3A1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: style
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/jquery/jquery-plugins.js.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/route.xhtml?trackingId=DEF789&jfwid=21e30f38326912d79288515684dc%3A1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/core.js.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/route.xhtml?trackingId=DEF789&jfwid=21e30f38326912d79288515684dc%3A1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/fa/font-awesome.css.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/route.xhtml?trackingId=DEF789&jfwid=21e30f38326912d79288515684dc%3A1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: style
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/jquery/jquery.js.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/route.xhtml?trackingId=DEF789&jfwid=21e30f38326912d79288515684dc%3A1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/css/app.css.xhtml HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/route.xhtml?trackingId=DEF789&jfwid=21e30f38326912d79288515684dc%3A1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: style
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/components.js.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/route.xhtml?trackingId=DEF789&jfwid=21e30f38326912d79288515684dc%3A1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/components.css.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/route.xhtml?trackingId=DEF789&jfwid=21e30f38326912d79288515684dc%3A1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: style
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/touch/touchswipe.js.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/route.xhtml?trackingId=DEF789&jfwid=21e30f38326912d79288515684dc%3A1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+POST http://localhost:8080/cargo-tracker/admin/route.xhtml?jfwid=21e30f38326912d79288515684dc:1 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: application/xml, text/xml, */*; q=0.01
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/route.xhtml?trackingId=DEF789&jfwid=21e30f38326912d79288515684dc%3A1
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Faces-Request: partial/ajax
+X-Requested-With: XMLHttpRequest
+Content-Length: 288
+Origin: https://localhost:8080
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+
+javax.faces.partial.ajax=true&javax.faces.source=j_idt42%3A0%3Aj_idt44&javax.faces.partial.execute=%40all&j_idt42%3A0%3Aj_idt44=j_idt42%3A0%3Aj_idt44&j_idt12=j_idt12&javax.faces.ViewState=7469150974316800730%3A-5430421392224172295&javax.faces.ClientWindow=21e30f38326912d79288515684dc%3A1
+
+GET http://localhost:8080/cargo-tracker/admin/show.xhtml?trackingId=DEF789&jfwid=21e30f38326912d79288515684dc:1 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/route.xhtml?trackingId=DEF789&jfwid=21e30f38326912d79288515684dc%3A1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/css/app.css.xhtml HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/show.xhtml?trackingId=DEF789&jfwid=21e30f38326912d79288515684dc:1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: style
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+If-None-Match: W/"5922-1690373151362"
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/jquery/jquery-plugins.js.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/show.xhtml?trackingId=DEF789&jfwid=21e30f38326912d79288515684dc:1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/fa/font-awesome.css.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/show.xhtml?trackingId=DEF789&jfwid=21e30f38326912d79288515684dc:1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: style
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/jquery/jquery.js.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/show.xhtml?trackingId=DEF789&jfwid=21e30f38326912d79288515684dc:1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/components.css.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/show.xhtml?trackingId=DEF789&jfwid=21e30f38326912d79288515684dc:1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: style
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/theme.css.xhtml?ln=primefaces-omega HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/show.xhtml?trackingId=DEF789&jfwid=21e30f38326912d79288515684dc:1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: style
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/components.js.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/show.xhtml?trackingId=DEF789&jfwid=21e30f38326912d79288515684dc:1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/core.js.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/show.xhtml?trackingId=DEF789&jfwid=21e30f38326912d79288515684dc:1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/touch/touchswipe.js.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/show.xhtml?trackingId=DEF789&jfwid=21e30f38326912d79288515684dc:1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+
+GET http://localhost:8080/cargo-tracker/admin/tracking/track.xhtml?jfwid=21e30f38326912d79288515684dc:1 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/show.xhtml?trackingId=DEF789&jfwid=21e30f38326912d79288515684dc:1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/theme.css.xhtml?ln=primefaces-omega HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/tracking/track.xhtml?jfwid=21e30f38326912d79288515684dc:1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: style
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/jquery/jquery.js.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/tracking/track.xhtml?jfwid=21e30f38326912d79288515684dc:1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/jquery/jquery-plugins.js.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/tracking/track.xhtml?jfwid=21e30f38326912d79288515684dc:1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/core.js.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/tracking/track.xhtml?jfwid=21e30f38326912d79288515684dc:1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/components.js.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/tracking/track.xhtml?jfwid=21e30f38326912d79288515684dc:1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/css/app.css.xhtml HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/tracking/track.xhtml?jfwid=21e30f38326912d79288515684dc:1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: style
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/fa/font-awesome.css.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/tracking/track.xhtml?jfwid=21e30f38326912d79288515684dc:1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: style
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/components.css.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/tracking/track.xhtml?jfwid=21e30f38326912d79288515684dc:1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: style
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+GET http://localhost:8080/cargo-tracker/admin/dashboard.xhtml?jfwid=21e30f38326912d79288515684dc:1 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/tracking/track.xhtml?jfwid=21e30f38326912d79288515684dc:1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/components.css.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/dashboard.xhtml?jfwid=21e30f38326912d79288515684dc:1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: style
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/css/app.css.xhtml HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/dashboard.xhtml?jfwid=21e30f38326912d79288515684dc:1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: style
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+If-None-Match: W/"5922-1690373151362"
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/fa/font-awesome.css.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/dashboard.xhtml?jfwid=21e30f38326912d79288515684dc:1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: style
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/components.js.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/dashboard.xhtml?jfwid=21e30f38326912d79288515684dc:1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/theme.css.xhtml?ln=primefaces-omega HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/dashboard.xhtml?jfwid=21e30f38326912d79288515684dc:1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: style
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/touch/touchswipe.js.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/dashboard.xhtml?jfwid=21e30f38326912d79288515684dc:1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/jquery/jquery.js.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/dashboard.xhtml?jfwid=21e30f38326912d79288515684dc:1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/core.js.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/dashboard.xhtml?jfwid=21e30f38326912d79288515684dc:1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/jquery/jquery-plugins.js.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/dashboard.xhtml?jfwid=21e30f38326912d79288515684dc:1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+
+GET http://localhost:8080/cargo-tracker/admin/tracking/track.xhtml?jfwid=21e30f38326912d79288515684dc:1 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/dashboard.xhtml?jfwid=21e30f38326912d79288515684dc:1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/core.js.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/tracking/track.xhtml?jfwid=21e30f38326912d79288515684dc:1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/theme.css.xhtml?ln=primefaces-omega HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/tracking/track.xhtml?jfwid=21e30f38326912d79288515684dc:1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: style
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/jquery/jquery.js.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/tracking/track.xhtml?jfwid=21e30f38326912d79288515684dc:1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/css/app.css.xhtml HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/tracking/track.xhtml?jfwid=21e30f38326912d79288515684dc:1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: style
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/fa/font-awesome.css.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/tracking/track.xhtml?jfwid=21e30f38326912d79288515684dc:1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: style
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/jquery/jquery-plugins.js.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/tracking/track.xhtml?jfwid=21e30f38326912d79288515684dc:1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/components.css.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/tracking/track.xhtml?jfwid=21e30f38326912d79288515684dc:1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: style
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/components.js.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/tracking/track.xhtml?jfwid=21e30f38326912d79288515684dc:1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+
+POST http://localhost:8080/cargo-tracker/admin/tracking/track.xhtml?jfwid=21e30f38326912d79288515684dc:1 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: application/xml, text/xml, */*; q=0.01
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/tracking/track.xhtml?jfwid=21e30f38326912d79288515684dc:1
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Faces-Request: partial/ajax
+X-Requested-With: XMLHttpRequest
+Content-Length: 489
+Origin: https://localhost:8080
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+
+javax.faces.partial.ajax=true&javax.faces.source=trackingForm%3AtrackingIdInput&javax.faces.partial.execute=trackingForm%3AtrackingIdInput&javax.faces.partial.render=trackingForm%3AtrackingIdInput&trackingForm%3AtrackingIdInput=trackingForm%3AtrackingIdInput&trackingForm%3AtrackingIdInput_query=JKL&trackingForm=trackingForm&trackingForm%3AtrackingIdInput_input=JKL&javax.faces.ViewState=-5623061244025346574%3A1726546784312351600&javax.faces.ClientWindow=21e30f38326912d79288515684dc%3A1
+
+POST http://localhost:8080/cargo-tracker/admin/tracking/track.xhtml?jfwid=21e30f38326912d79288515684dc:1 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: application/xml, text/xml, */*; q=0.01
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/tracking/track.xhtml?jfwid=21e30f38326912d79288515684dc:1
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Faces-Request: partial/ajax
+X-Requested-With: XMLHttpRequest
+Content-Length: 493
+Origin: https://localhost:8080
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+
+javax.faces.partial.ajax=true&javax.faces.source=trackingForm%3AtrackingIdInput&javax.faces.partial.execute=trackingForm%3AtrackingIdInput&javax.faces.partial.render=trackingForm%3AtrackingIdInput&trackingForm%3AtrackingIdInput=trackingForm%3AtrackingIdInput&trackingForm%3AtrackingIdInput_query=JKL56&trackingForm=trackingForm&trackingForm%3AtrackingIdInput_input=JKL56&javax.faces.ViewState=-5623061244025346574%3A1726546784312351600&javax.faces.ClientWindow=21e30f38326912d79288515684dc%3A1
+
+POST http://localhost:8080/cargo-tracker/admin/tracking/track.xhtml?jfwid=21e30f38326912d79288515684dc:1 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: application/xml, text/xml, */*; q=0.01
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/tracking/track.xhtml?jfwid=21e30f38326912d79288515684dc:1
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Faces-Request: partial/ajax
+X-Requested-With: XMLHttpRequest
+Content-Length: 495
+Origin: https://localhost:8080
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+
+javax.faces.partial.ajax=true&javax.faces.source=trackingForm%3AtrackingIdInput&javax.faces.partial.execute=trackingForm%3AtrackingIdInput&javax.faces.partial.render=trackingForm%3AtrackingIdInput&trackingForm%3AtrackingIdInput=trackingForm%3AtrackingIdInput&trackingForm%3AtrackingIdInput_query=JKL567&trackingForm=trackingForm&trackingForm%3AtrackingIdInput_input=JKL567&javax.faces.ViewState=-5623061244025346574%3A1726546784312351600&javax.faces.ClientWindow=21e30f38326912d79288515684dc%3A1
+
+POST http://localhost:8080/cargo-tracker/admin/tracking/track.xhtml?jfwid=21e30f38326912d79288515684dc:1 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/tracking/track.xhtml?jfwid=21e30f38326912d79288515684dc:1
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 224
+Origin: https://localhost:8080
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+
+trackingForm=trackingForm&trackingForm%3AtrackingIdInput_input=JKL567&trackingForm%3Aj_idt22=Track%21&javax.faces.ViewState=-5623061244025346574%3A1726546784312351600&javax.faces.ClientWindow=21e30f38326912d79288515684dc%3A1
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/fa/font-awesome.css.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/tracking/track.xhtml?jfwid=21e30f38326912d79288515684dc:1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: style
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/css/app.css.xhtml HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/tracking/track.xhtml?jfwid=21e30f38326912d79288515684dc:1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: style
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+If-None-Match: W/"5922-1690373151362"
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/components.css.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/tracking/track.xhtml?jfwid=21e30f38326912d79288515684dc:1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: style
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/theme.css.xhtml?ln=primefaces-omega HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/tracking/track.xhtml?jfwid=21e30f38326912d79288515684dc:1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: style
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/jquery/jquery.js.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/tracking/track.xhtml?jfwid=21e30f38326912d79288515684dc:1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/jquery/jquery-plugins.js.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/tracking/track.xhtml?jfwid=21e30f38326912d79288515684dc:1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/components.js.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/tracking/track.xhtml?jfwid=21e30f38326912d79288515684dc:1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/core.js.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/tracking/track.xhtml?jfwid=21e30f38326912d79288515684dc:1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+
+GET http://localhost:8080/cargo-tracker/admin/tracking/map.xhtml?jfwid=21e30f38326912d79288515684dc:1 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/tracking/track.xhtml?jfwid=21e30f38326912d79288515684dc:1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/jquery/jquery-plugins.js.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/tracking/map.xhtml?jfwid=21e30f38326912d79288515684dc:1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/core.js.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/tracking/map.xhtml?jfwid=21e30f38326912d79288515684dc:1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/jquery/jquery.js.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/tracking/map.xhtml?jfwid=21e30f38326912d79288515684dc:1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/fa/font-awesome.css.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/tracking/map.xhtml?jfwid=21e30f38326912d79288515684dc:1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: style
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/theme.css.xhtml?ln=primefaces-omega HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/tracking/map.xhtml?jfwid=21e30f38326912d79288515684dc:1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: style
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/css/app.css.xhtml HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/tracking/map.xhtml?jfwid=21e30f38326912d79288515684dc:1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: style
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/components.css.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/tracking/map.xhtml?jfwid=21e30f38326912d79288515684dc:1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: style
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/components.js.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/tracking/map.xhtml?jfwid=21e30f38326912d79288515684dc:1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/images/CTlogobadge128.png.xhtml HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/tracking/map.xhtml?jfwid=21e30f38326912d79288515684dc:1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+If-None-Match: W/"29266-1690373151361"
+
+GET http://localhost:8080/cargo-tracker/admin/tracking/mapFrame.xhtml HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/tracking/map.xhtml?jfwid=21e30f38326912d79288515684dc:1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: iframe
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/css/dd.css.xhtml HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/tracking/mapFrame.xhtml
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: style
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/leaflet/leaflet.css.xhtml HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/tracking/mapFrame.xhtml
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: style
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/leaflet/leaflet.js.xhtml HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/tracking/mapFrame.xhtml
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+GET http://localhost:8080/cargo-tracker/rest/cargo HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/event-stream
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/tracking/mapFrame.xhtml
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+Pragma: no-cache
+Cache-Control: no-cache
+
+GET http://localhost:8080/cargo-tracker/rest/cargo HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/event-stream
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/tracking/mapFrame.xhtml
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+Pragma: no-cache
+Cache-Control: no-cache
+
+GET http://localhost:8080/cargo-tracker/rest/cargo HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/event-stream
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/tracking/mapFrame.xhtml
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+Pragma: no-cache
+Cache-Control: no-cache
+
+GET http://localhost:8080/cargo-tracker/admin/about.xhtml?jfwid=21e30f38326912d79288515684dc:1 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/tracking/map.xhtml?jfwid=21e30f38326912d79288515684dc:1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/jquery/jquery.js.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/about.xhtml?jfwid=21e30f38326912d79288515684dc:1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/jquery/jquery-plugins.js.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/about.xhtml?jfwid=21e30f38326912d79288515684dc:1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/fa/font-awesome.css.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/about.xhtml?jfwid=21e30f38326912d79288515684dc:1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: style
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/css/app.css.xhtml HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/about.xhtml?jfwid=21e30f38326912d79288515684dc:1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: style
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/components.js.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/about.xhtml?jfwid=21e30f38326912d79288515684dc:1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/core.js.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/about.xhtml?jfwid=21e30f38326912d79288515684dc:1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/components.css.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/about.xhtml?jfwid=21e30f38326912d79288515684dc:1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: style
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/theme.css.xhtml?ln=primefaces-omega HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/about.xhtml?jfwid=21e30f38326912d79288515684dc:1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: style
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+GET http://localhost:8080/cargo-tracker/admin/dashboard.xhtml?jfwid=21e30f38326912d79288515684dc:1 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/about.xhtml?jfwid=21e30f38326912d79288515684dc:1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/css/app.css.xhtml HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/dashboard.xhtml?jfwid=21e30f38326912d79288515684dc:1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: style
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+If-None-Match: W/"5922-1690373151362"
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/theme.css.xhtml?ln=primefaces-omega HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/dashboard.xhtml?jfwid=21e30f38326912d79288515684dc:1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: style
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/components.css.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/dashboard.xhtml?jfwid=21e30f38326912d79288515684dc:1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: style
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/jquery/jquery.js.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/dashboard.xhtml?jfwid=21e30f38326912d79288515684dc:1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/touch/touchswipe.js.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/dashboard.xhtml?jfwid=21e30f38326912d79288515684dc:1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/components.js.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/dashboard.xhtml?jfwid=21e30f38326912d79288515684dc:1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/jquery/jquery-plugins.js.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/dashboard.xhtml?jfwid=21e30f38326912d79288515684dc:1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/core.js.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/dashboard.xhtml?jfwid=21e30f38326912d79288515684dc:1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/fa/font-awesome.css.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/dashboard.xhtml?jfwid=21e30f38326912d79288515684dc:1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: style
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/images/CTlogobadge128.png.xhtml HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/admin/dashboard.xhtml?jfwid=21e30f38326912d79288515684dc:1
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+If-None-Match: W/"29266-1690373151361"
+
+GET http://localhost:8080/cargo-tracker/ HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: none
+Sec-Fetch-User: ?1
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/css/title.css.xhtml HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: style
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/fa/font-awesome.css.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: style
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/theme.css.xhtml?ln=primefaces-omega HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: style
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/images/cargoTug.jpg.xhtml HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/javax.faces.resource/css/title.css.xhtml
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+If-None-Match: W/"791805-1690373151361"
+
+GET http://localhost:8080/cargo-tracker/public/track.xhtml HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/core.js.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/public/track.xhtml
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/theme.css.xhtml?ln=primefaces-omega HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/public/track.xhtml
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: style
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/components.js.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/public/track.xhtml
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/jquery/jquery.js.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/public/track.xhtml
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/jquery/jquery-plugins.js.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/public/track.xhtml
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/fa/font-awesome.css.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/public/track.xhtml
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: style
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/css/app.css.xhtml HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/public/track.xhtml
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: style
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/components.css.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/public/track.xhtml
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: style
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+POST http://localhost:8080/cargo-tracker/public/track.xhtml?jfwid=21e30f38326912d79288515684dc:4 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/public/track.xhtml
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 217
+Origin: https://localhost:8080
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+
+trackingForm=trackingForm&trackingForm%3AtrackingIdInput=JKL567&trackingForm%3Aj_idt19=Track%21&javax.faces.ViewState=1026757980198950765%3A8406522555451264798&javax.faces.ClientWindow=21e30f38326912d79288515684dc%3A4
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/jquery/jquery.js.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/public/track.xhtml?jfwid=21e30f38326912d79288515684dc:4
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/core.js.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/public/track.xhtml?jfwid=21e30f38326912d79288515684dc:4
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/jquery/jquery-plugins.js.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/public/track.xhtml?jfwid=21e30f38326912d79288515684dc:4
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/theme.css.xhtml?ln=primefaces-omega HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/public/track.xhtml?jfwid=21e30f38326912d79288515684dc:4
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: style
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/components.css.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/public/track.xhtml?jfwid=21e30f38326912d79288515684dc:4
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: style
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/fa/font-awesome.css.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/public/track.xhtml?jfwid=21e30f38326912d79288515684dc:4
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: style
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/css/app.css.xhtml HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/public/track.xhtml?jfwid=21e30f38326912d79288515684dc:4
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: style
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/components.js.xhtml?ln=primefaces&v=8.0 HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/public/track.xhtml?jfwid=21e30f38326912d79288515684dc:4
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+
+GET http://localhost:8080/cargo-tracker/public/mapFrame.xhtml?cargo=%7B%22destinationCode%22%3A%22SESTO%22%2C%22destinationCoordinates%22%3A%7B%22latitude%22%3A59.0%2C%22longitude%22%3A18.0%7D%2C%22destinationName%22%3A%22Stockholm%22%2C%22eta%22%3A%22%3F%22%2C%22events%22%3A%5B%7B%22description%22%3A%22Received+in+Hangzhou%22%2C%22expected%22%3Atrue%2C%22time%22%3A%227%2F10%2F2023+11%3A33+PM%22%7D%2C%7B%22description%22%3A%22Loaded+onto+voyage+0100S+in+Hangzhou%22%2C%22expected%22%3Atrue%2C%22time%22%3A%227%2F16%2F2023+10%3A49+AM%22%7D%2C%7B%22description%22%3A%22Unloaded+off+voyage+0100S+in+New+York%22%2C%22expected%22%3Atrue%2C%22time%22%3A%227%2F22%2F2023+4%3A5+PM%22%7D%2C%7B%22description%22%3A%22Loaded+onto+voyage+0100S+in+New+York%22%2C%22expected%22%3Afalse%2C%22time%22%3A%227%2F24%2F2023+5%3A59+AM%22%7D%5D%2C%22lastKnownLocationCode%22%3A%22USNYC%22%2C%22lastKnownLocationCoordinates%22%3A%7B%22latitude%22%3A41.0%2C%22longitude%22%3A-74.0%7D%2C%22lastKnownLocationName%22%3A%22New+York%22%2C%22misdirected%22%3Atrue%2C%22nextExpectedActivity%22%3A%22%22%2C%22originCode%22%3A%22CNHGH%22%2C%22originCoordinates%22%3A%7B%22latitude%22%3A30.0%2C%22longitude%22%3A120.0%7D%2C%22originName%22%3A%22Hangzhou%22%2C%22statusCode%22%3A%22MISDIRECTED%22%2C%22statusText%22%3A%22Onboard+voyage+0100S%22%2C%22trackingId%22%3A%22JKL567%22%7D HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/public/track.xhtml?jfwid=21e30f38326912d79288515684dc:4
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: iframe
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/leaflet/leaflet.js.xhtml HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/public/mapFrame.xhtml?cargo=%7B%22destinationCode%22%3A%22SESTO%22%2C%22destinationCoordinates%22%3A%7B%22latitude%22%3A59.0%2C%22longitude%22%3A18.0%7D%2C%22destinationName%22%3A%22Stockholm%22%2C%22eta%22%3A%22%3F%22%2C%22events%22%3A%5B%7B%22description%22%3A%22Received+in+Hangzhou%22%2C%22expected%22%3Atrue%2C%22time%22%3A%227%2F10%2F2023+11%3A33+PM%22%7D%2C%7B%22description%22%3A%22Loaded+onto+voyage+0100S+in+Hangzhou%22%2C%22expected%22%3Atrue%2C%22time%22%3A%227%2F16%2F2023+10%3A49+AM%22%7D%2C%7B%22description%22%3A%22Unloaded+off+voyage+0100S+in+New+York%22%2C%22expected%22%3Atrue%2C%22time%22%3A%227%2F22%2F2023+4%3A5+PM%22%7D%2C%7B%22description%22%3A%22Loaded+onto+voyage+0100S+in+New+York%22%2C%22expected%22%3Afalse%2C%22time%22%3A%227%2F24%2F2023+5%3A59+AM%22%7D%5D%2C%22lastKnownLocationCode%22%3A%22USNYC%22%2C%22lastKnownLocationCoordinates%22%3A%7B%22latitude%22%3A41.0%2C%22longitude%22%3A-74.0%7D%2C%22lastKnownLocationName%22%3A%22New+York%22%2C%22misdirected%22%3Atrue%2C%22nextExpectedActivity%22%3A%22%22%2C%22originCode%22%3A%22CNHGH%22%2C%22originCoordinates%22%3A%7B%22latitude%22%3A30.0%2C%22longitude%22%3A120.0%7D%2C%22originName%22%3A%22Hangzhou%22%2C%22statusCode%22%3A%22MISDIRECTED%22%2C%22statusText%22%3A%22Onboard+voyage+0100S%22%2C%22trackingId%22%3A%22JKL567%22%7D
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+If-Modified-Since: Wed, 26 Jul 2023 12:05:51 GMT
+If-None-Match: W/"141941-1690373151396"
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/css/dd.css.xhtml HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/public/mapFrame.xhtml?cargo=%7B%22destinationCode%22%3A%22SESTO%22%2C%22destinationCoordinates%22%3A%7B%22latitude%22%3A59.0%2C%22longitude%22%3A18.0%7D%2C%22destinationName%22%3A%22Stockholm%22%2C%22eta%22%3A%22%3F%22%2C%22events%22%3A%5B%7B%22description%22%3A%22Received+in+Hangzhou%22%2C%22expected%22%3Atrue%2C%22time%22%3A%227%2F10%2F2023+11%3A33+PM%22%7D%2C%7B%22description%22%3A%22Loaded+onto+voyage+0100S+in+Hangzhou%22%2C%22expected%22%3Atrue%2C%22time%22%3A%227%2F16%2F2023+10%3A49+AM%22%7D%2C%7B%22description%22%3A%22Unloaded+off+voyage+0100S+in+New+York%22%2C%22expected%22%3Atrue%2C%22time%22%3A%227%2F22%2F2023+4%3A5+PM%22%7D%2C%7B%22description%22%3A%22Loaded+onto+voyage+0100S+in+New+York%22%2C%22expected%22%3Afalse%2C%22time%22%3A%227%2F24%2F2023+5%3A59+AM%22%7D%5D%2C%22lastKnownLocationCode%22%3A%22USNYC%22%2C%22lastKnownLocationCoordinates%22%3A%7B%22latitude%22%3A41.0%2C%22longitude%22%3A-74.0%7D%2C%22lastKnownLocationName%22%3A%22New+York%22%2C%22misdirected%22%3Atrue%2C%22nextExpectedActivity%22%3A%22%22%2C%22originCode%22%3A%22CNHGH%22%2C%22originCoordinates%22%3A%7B%22latitude%22%3A30.0%2C%22longitude%22%3A120.0%7D%2C%22originName%22%3A%22Hangzhou%22%2C%22statusCode%22%3A%22MISDIRECTED%22%2C%22statusText%22%3A%22Onboard+voyage+0100S%22%2C%22trackingId%22%3A%22JKL567%22%7D
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: style
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+GET http://localhost:8080/cargo-tracker/javax.faces.resource/leaflet/leaflet.css.xhtml HTTP/1.1
+host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Referer: https://localhost:8080/cargo-tracker/public/mapFrame.xhtml?cargo=%7B%22destinationCode%22%3A%22SESTO%22%2C%22destinationCoordinates%22%3A%7B%22latitude%22%3A59.0%2C%22longitude%22%3A18.0%7D%2C%22destinationName%22%3A%22Stockholm%22%2C%22eta%22%3A%22%3F%22%2C%22events%22%3A%5B%7B%22description%22%3A%22Received+in+Hangzhou%22%2C%22expected%22%3Atrue%2C%22time%22%3A%227%2F10%2F2023+11%3A33+PM%22%7D%2C%7B%22description%22%3A%22Loaded+onto+voyage+0100S+in+Hangzhou%22%2C%22expected%22%3Atrue%2C%22time%22%3A%227%2F16%2F2023+10%3A49+AM%22%7D%2C%7B%22description%22%3A%22Unloaded+off+voyage+0100S+in+New+York%22%2C%22expected%22%3Atrue%2C%22time%22%3A%227%2F22%2F2023+4%3A5+PM%22%7D%2C%7B%22description%22%3A%22Loaded+onto+voyage+0100S+in+New+York%22%2C%22expected%22%3Afalse%2C%22time%22%3A%227%2F24%2F2023+5%3A59+AM%22%7D%5D%2C%22lastKnownLocationCode%22%3A%22USNYC%22%2C%22lastKnownLocationCoordinates%22%3A%7B%22latitude%22%3A41.0%2C%22longitude%22%3A-74.0%7D%2C%22lastKnownLocationName%22%3A%22New+York%22%2C%22misdirected%22%3Atrue%2C%22nextExpectedActivity%22%3A%22%22%2C%22originCode%22%3A%22CNHGH%22%2C%22originCoordinates%22%3A%7B%22latitude%22%3A30.0%2C%22longitude%22%3A120.0%7D%2C%22originName%22%3A%22Hangzhou%22%2C%22statusCode%22%3A%22MISDIRECTED%22%2C%22statusText%22%3A%22Onboard+voyage+0100S%22%2C%22trackingId%22%3A%22JKL567%22%7D
+Connection: keep-alive
+Cookie: JSESSIONID=21e30f38326912d79288515684dc
+Sec-Fetch-Dest: style
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
